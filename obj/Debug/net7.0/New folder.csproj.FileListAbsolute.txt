@@ -1,0 +1,30 @@
+C:\Users\cancl\Desktop\VScode\Project101\New folder\bin\Debug\net7.0\New folder.exe
+C:\Users\cancl\Desktop\VScode\Project101\New folder\bin\Debug\net7.0\New folder.deps.json
+C:\Users\cancl\Desktop\VScode\Project101\New folder\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\cancl\Desktop\VScode\Project101\New folder\bin\Debug\net7.0\New folder.dll
+C:\Users\cancl\Desktop\VScode\Project101\New folder\bin\Debug\net7.0\New folder.pdb
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.dll
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.pdb
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\cancl\Desktop\VScode\Project101\New folder\obj\Debug\net7.0\ref\New folder.dll
+C:\Users\cancl\Desktop\C# basic math operations\bin\Debug\net7.0\New folder.exe
+C:\Users\cancl\Desktop\C# basic math operations\bin\Debug\net7.0\New folder.deps.json
+C:\Users\cancl\Desktop\C# basic math operations\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\cancl\Desktop\C# basic math operations\bin\Debug\net7.0\New folder.dll
+C:\Users\cancl\Desktop\C# basic math operations\bin\Debug\net7.0\New folder.pdb
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.dll
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.pdb
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\cancl\Desktop\C# basic math operations\obj\Debug\net7.0\ref\New folder.dll
